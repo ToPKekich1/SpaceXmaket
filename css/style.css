@@ -1,0 +1,30 @@
+body {
+  background: #010001;
+  margin: 0;
+  padding-top: 53px;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  max-width: 1230px;
+  margin: auto;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.item-link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
